@@ -1,4 +1,11 @@
+
 # Partial Master
+
+## Video training
+
+You can watch the video training for Partial Master by clicking below:
+
+[![Partial Master video training](https://img.youtube.com/vi/NbCPs6VhqfE/0.jpg)](https://www.youtube.com/watch?v=NbCPs6VhqfE)
 
 ## What it is
 
