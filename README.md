@@ -94,6 +94,27 @@ You will be able to see:
 Also, all of the results will be saved in a new CSV file, located in /results folder
 
 # FAQ
+### I am only taking two partials, what do I need to enter in Partial 3 and Partial 4?
+If you are not taking partial 2, partial 3 or partial 4, you just enter 0, and the script will skip it.
+
+### What is the number in the Final column?
+This is your last partial, or usually your stop-loss risk-reward.
+
+### What should I do with the results?
+
+The script gives you the percentages, that are the most optimal, based on your trading data, so you can use them in the future. The percentages indicate the percent of the position that you need to close when you reach your partial.
+
+For example:
+
+If you got the results as **partial 1 - 15%, partial 2 - 30%, partial 3 - 22%, partial 4 - 2%**, that means that if you have opened 2 lots position, at first partial, you take off 15% of the position (0.3 lots).
+
+On the second partial  you take off 30% of the position that is left (you take off 30% of the remaining 1.7 lots, which is 0.51 lots).
+
+Third partial is 22%, so you take off 22% of the remaining 1.19 lots, which is 0.26 lots.
+
+Fourth partial is 2%, so you take 2% of the remaining 0.93 lots, which is 0,01 lots.
+
+And the remaining 0.92 lots will be closed at your stop-loss.
 
 ### Do I need to specify the drawdown?
 If you don't want the results to be omitted, you can type **-1000** in the drawdown variable (or a number that is higher than the amount of all of your trades), and it will print all of the results.
