@@ -29,7 +29,7 @@ The script takes your trading data and runs a simulation to determine the highes
 
 ## How to prepare your data file
 
-Inside the data file you need to enter your trade data. There are 5 columns in total:
+Inside the data file you need to enter your trade data. There are 5 columns:
 
 - Partial 1
 - Partial 2
